@@ -39,9 +39,8 @@
 ```
 npm install
 ```
-2. Для установки и запуска тестов npm install --save-dev jest, также в package.json добавить: {
-  "scripts": {
-    "test": "jest"
-  }
-}
+To run tests
+```
+npm install --save-dev jest
+```
 Далее для их запуска npm run test.
