@@ -36,9 +36,9 @@
 Дополнительно, вы также можете реализовать алгоритм сортировки курсов по цене.
 
 # launch of the project
-1. **```
+1.```
 npm install
-```**
+```
 2. Для установки и запуска тестов npm install --save-dev jest, также в package.json добавить: {
   "scripts": {
     "test": "jest"
