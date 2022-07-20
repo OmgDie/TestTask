@@ -41,6 +41,5 @@ npm install
 ```
 To run tests
 ```
-npm install --save-dev jest
+npm run test
 ```
-Далее для их запуска npm run test.
